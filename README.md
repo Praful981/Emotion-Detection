@@ -13,7 +13,7 @@ To run the program, follow these instructions:
 
 3. Save the provided code into a Python file, for example, `facial_emotion_detection.py`.
 
-4. Download the pre-trained model file for emotion detection (`emotion_model.h5`) and place it in the same directory as the Python file. You can find pre-trained models online or train your own using deep learning techniques.
+4. Download the pre-trained model file for emotion detection (`emotion_model.hdf5`) and place it in the same directory as the Python file. You can find pre-trained models online or train your own using deep learning techniques.
 
 5. Open a command prompt or terminal and navigate to the directory containing the Python file and the pre-trained model.
 
